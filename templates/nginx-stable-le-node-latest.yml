@@ -1,0 +1,5 @@
+NginxVersion: 1.13.12
+NodeVersion: latest
+LdapEnabled: no
+LetsEncrypt: yes
+NodeEnabled: yes
