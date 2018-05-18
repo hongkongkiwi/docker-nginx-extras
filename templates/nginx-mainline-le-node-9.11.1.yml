@@ -2,3 +2,4 @@ NginxVersion: 1.14.0
 NodeVersion: 9.11.1
 LdapEnabled: no
 LetsEncrypt: yes
+NodeEnabled: yes
